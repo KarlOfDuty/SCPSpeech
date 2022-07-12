@@ -9,10 +9,10 @@ namespace SCP_Speech
         name = "SCP Speech",
         description = "Allow certain SCP to speak with other classes.",
         id = "TeMbI4.SCP.Speech",
-        version = "1.2",
+        version = "1.3.1",
         SmodMajor = 3,
-        SmodMinor = 9,
-        SmodRevision = 9
+        SmodMinor = 10,
+        SmodRevision = 2
         )]
     public class SCPSpeech : Plugin
     {
